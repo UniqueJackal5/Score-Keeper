@@ -1,0 +1,11 @@
+
+main{
+    transform: translatey(50%);
+}
+.img{
+    height: 200px;
+}
+
+.btn-size{
+    height: 50px;
+}
